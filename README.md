@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushtenguriya7
 - 👀 I’m interested in learning about trending technologies.
-- 🌱 I’m currently learning Basics of Web Devlopment.
+- 🌱 I’m currently learning Web Devlopment.
 - 💞️ I’m looking to collaborate on web development projects or Python coding challenges.
 - 📫 How to reach me www.linkedin.com/in/ayush-tenguriya or ayushtenguriya7@gmail.com
 
