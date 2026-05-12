@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi there, I'm Ayush!<br><br>🔭 I’m currently working on  <br>- MERN stack projects  <br>- Improving problem-solving using C++  <br><br>👯 I’m looking to collaborate on  <br>- MERN stack projects  <br>- Open-source contributions  <br><br>🌱 I’m currently learning  <br>- MERN Stack  <br>- Data Structures & Algorithms (C++)  <br><br>💬 Ask me about  <br>- C++  <br>- DSA  <br>- Web Development basics  <br><br>⚡ Fun fact  <br>- Consistently solving DSA problems 🚀  
+## 👋 Hi there, I'm Ayush!<br><br>🔭 I’m currently working on  <br>- MERN stack projects  <br>- Improving problem-solving using C++  <br><br>👯 I’m looking to collaborate on  <br>- MERN stack projects  <br>- Open-source contributions  <br><br>🌱 I’m currently learning  <br>- MERN Stack  <br>- Data Structures & Algorithms (C++)  <br><br>💬 Ask me about  <br>- C++  <br>- DSA  <br>- MERN  <br><br>⚡ Fun fact  <br>- Consistently solving DSA problems 🚀  
 
 
 ## 🌐 Socials:
